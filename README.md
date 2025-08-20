@@ -22,3 +22,5 @@ Build an app that is functionally similar to this: https://codepen.io/FreeCodeCa
 ## My Work
 
 ![JavaScript calculator](https://cdn.rawgit.com/ayoisaiah/javascript-calculator/012d4c5f/screenshot.png)
+
+Author : Gokul
